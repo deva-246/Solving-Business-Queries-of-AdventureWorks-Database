@@ -1,10 +1,6 @@
 # Solving-Business-Queries-of-AdventureWorks-Database
 
 
-
-![schema](https://github.com/deva-246/Solving-Business-Queries-of-AdventureWorks-Database/assets/75877347/de537cfa-b4d4-4dce-811c-eebbbb2463f5)
-
-
 ## Prerequisites
 
 1. MS SQL SERVER
@@ -32,3 +28,6 @@ From the data in adventureworks2022.bak it can be known that it's a database of 
 4. **Purchasing** - Details of materials, transactions and purchase details from vendors 
 
 5. **Sales** - customer and sales-related data which includes the details about category, sales transaction, and sales orders.
+
+![schema](https://github.com/deva-246/Solving-Business-Queries-of-AdventureWorks-Database/assets/75877347/de537cfa-b4d4-4dce-811c-eebbbb2463f5)
+
