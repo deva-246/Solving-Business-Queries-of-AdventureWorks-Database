@@ -1,5 +1,20 @@
 # Solving-Business-Queries-of-AdventureWorks-Database
 
+## Prerequisites
+
+1. MS SQL SERVER
+
+2. adventureworksdatabase.bak file
+
+
+
+
+
+## MS SQL Server
+
+
+## Adventure Works Database
+
 From the data in adventureworks2022.bak it can be known that it's a database of a company named Adventure Works which focuses on selling and manufacturing cycles, it's related components, and accessories. The company has 290 employees and purchases materials from various vendors and uses them for production. It sells the products all over the world and maintains necessary details through the below-listed schema,
 
 1. **Human resources** -Adventure Works company's Employee details 
