@@ -1,6 +1,6 @@
 # Solving-Business-Queries-of-AdventureWorks-Database
 
-SCHEMA
+
 
 ![schema](https://github.com/deva-246/Solving-Business-Queries-of-AdventureWorks-Database/assets/75877347/de537cfa-b4d4-4dce-811c-eebbbb2463f5)
 
