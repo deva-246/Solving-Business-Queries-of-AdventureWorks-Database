@@ -32,11 +32,11 @@
 
 16.	For each order show the SalesOrderID and SubTotal calculated three ways: 
   
-  A)	From the SalesOrderHeader
-  
-  B)	Sum of OrderQty*UnitPrice 
-  
-  C)	Sum of OrderQty*ListPrice 
+      A)	From the SalesOrderHeader
+      
+      B)	Sum of OrderQty*UnitPrice 
+      
+      C)	Sum of OrderQty*ListPrice 
   
 17.	Show how many orders are in the following ranges (in $): RANGE Num Orders Total Value 99 100- 999 1000-9999 10000- ·
 
