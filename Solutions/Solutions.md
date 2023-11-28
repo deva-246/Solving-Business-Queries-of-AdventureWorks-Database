@@ -2,19 +2,19 @@
 
 1. Show the first name and the email address of customer with CompanyName 'Bike World' 
 
-SELECT 
-
-d.Name,b.FirstName,c.EmailAddress
-
-FROM sales.customer a
-
-join person.person b on a.PersonID = b.BusinessEntityID
-
-JOIN [Person].[EmailAddress] c ON b.BusinessEntityID = c.BusinessEntityID
-
-JOIN [Sales].[Store] d ON c.EmailAddressID = d.BusinessEntityID 
-
-where d.Name = 'Bike World'
+	SELECT 
+	
+	d.Name,b.FirstName,c.EmailAddress
+	
+	FROM sales.customer a
+	
+	join person.person b on a.PersonID = b.BusinessEntityID
+	
+	JOIN [Person].[EmailAddress] c ON b.BusinessEntityID = c.BusinessEntityID
+	
+	JOIN [Sales].[Store] d ON c.EmailAddressID = d.BusinessEntityID 
+	
+	where d.Name = 'Bike World'
  
 
 2. Show the CompanyName for all customers with an address in City 'Dallas'. 
